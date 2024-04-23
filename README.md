@@ -96,8 +96,6 @@ Otellere ait tarihsel dönemler eklenir ve oda fiyatlandırmalarında bu döneml
 
 Dönemleri tarih aralığı olarak acente personeli girer. Oda fiyatlandırmaları bu dönemlere göre değişim gösterir.
 
-
-
 Örnek Dönemler:
 
 01/01/2021 - 31/05/2021
@@ -118,12 +116,9 @@ Projeksiyon (Var, Yok)
 Bir odanın kapasitesi yatak sayısına bağlıdır. 2 yataklı bir odaya 2 misafir eklenebilir.
 
 
-
 Oda Fiyatlandırmaları
 
 Odalar gecelik fiyat olarak hesaplanır. Oda fiyatları otel için eklenmiş olan dönemlere, pansiyon tiplerine göre farklı olacaktır. Yetişkin ve çocuk için olmak üzere farklı fiyat tanımlanacaktır.
-
-
 
 Oda Arama ve Rezervasyon İşlemleri
 
