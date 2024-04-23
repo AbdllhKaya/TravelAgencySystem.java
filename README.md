@@ -49,7 +49,6 @@ Acente anlaşmalı olduğu otelleri, konum bilgileri ve diğer özellikleri ile 
 Otel ekranı, otellerin listelendiği bir ekranı içerir. Bu ekran üzerinden otel ekleme işlemi gerçekleştirilebilir. Aynı zamanda var olan otellere sahip olduğu pansiyon tipi, tesis özelliği ve dönem bilgisi kaydedilmelidir.
 
 
-
 Sistemde olması beklenen Pansiyon Tipleri:
 
 Ultra Her şey Dahil
@@ -78,7 +77,7 @@ Otel Adı: Kodluyoruz Life İstanbul
 Şehir: İstanbul
 Bölge: Beyoğlu
 Tam Adres: Şahkulu, Şişhane Metro Durağı, Meşrutiyet Cd. No:125, 34421
-E-posta: info@kodluyoruz.org
+E-posta: info@kodluyoruzorg
 Telefon: 0212 xxx xx xx
 Yıldız: 5 Yıldızlı
 Tesis Özellikleri
