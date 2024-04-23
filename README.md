@@ -189,7 +189,7 @@ Acente çalışanları sistem üzerinde yapılan rezervasyonları listeleyebilec
 
 Kullanılan Teknolojiler
 
-Java
-Java Swing (GUI)
+Java,
+Java Swing (GUI),
 PostgreSQL
 
